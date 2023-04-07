@@ -2,13 +2,13 @@
 
 ## Tehnologii folosite
 • Aplicația este de tipul Windows Forms și este realizată în C#. <br/
-• Baza de date a fost construită în SQL Server, componenta inegrată în Visual Studio. <br/
+• Baza de date a fost construită în SQL Server, componenta inegrată în Visual Studio. <br/>
 
 ## Descrierea aplicației
 • Scopul aplicației a fost aprofundarea cunoștințelor de POO și integrarea unei baze de date într-o aplicație Windows, folosind C#.<br/>
 • În interfață pot fi vizualizați angajații și clienții băncii, iar din meniu pot fi adăugați, editați sau șterși angajații și clienții.<br/>
 • La adăugarea sau editarea unui client/angajat există validări care să împiedice utilizatorul să adauge un număr de telefon care nu începe cu prefixul „40” sau un email de angajat care nu se termină în „@bank.ro”, etc.<br/>
-• Prin mavigarea din meniu la „Creare contract” se deschide o nouă fereastră unde trebuie completate datelele pentru contractul de credit ce se dorește a fi creat.<br/>
+• Prin navigarea din meniu la „Creare contract” se deschide o nouă fereastră unde trebuie completate datelele pentru contractul de credit ce se dorește a fi creat.<br/>
 • Pentru a facilita utilizarea aplicației, este nevoie doar de drag & drop a clientului și angajatului dorit din fereastra anterioară pe contract și datele se vor autocompleta.<br/>
 • În aceeași fereastră clientul se poate semna în spațiul destinat, semnătura fiind salvată.<br/>
 • Se poate vizualiza un print preview al contractului prin selectarea lui din listă și accesarea opțiunii Fișier -> Print Preview din meniu. De asemenea, contractul poate fi și printat.<br/>
