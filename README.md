@@ -1,7 +1,7 @@
 # Gestiune_Credite_Bancare_Windows_Forms
 
 ## Tehnologii folosite
-• Aplicația este de tipul Windows Forms și este realizată în C#. <br/
+• Aplicația este de tipul Windows Forms și este realizată în C#. <br/>
 • Baza de date a fost construită în SQL Server, componenta inegrată în Visual Studio. <br/>
 
 ## Descrierea aplicației
